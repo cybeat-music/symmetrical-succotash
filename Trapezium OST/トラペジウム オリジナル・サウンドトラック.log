@@ -1,0 +1,573 @@
+X Lossless Decoder version 20240310 (157.0)
+
+XLD extraction logfile from 2024-05-12 00:11:25 +0900
+
+横山克 / トラペジウム オリジナル・サウンドトラック
+
+Trapezium Original Soundtrack
+
+Used drive : HL-DT-ST BD-RE  BH16NS60 (revision 1.02)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:42:16 |         0    |    16665   
+        2  | 03:42:16 | 03:36:53 |     16666    |    32918   
+        3  | 07:18:69 | 03:25:57 |     32919    |    48350   
+        4  | 10:44:51 | 02:41:12 |     48351    |    60437   
+        5  | 13:25:63 | 02:39:48 |     60438    |    72410   
+        6  | 16:05:36 | 02:30:28 |     72411    |    83688   
+        7  | 18:35:64 | 02:06:57 |     83689    |    93195   
+        8  | 20:42:46 | 00:44:44 |     93196    |    96539   
+        9  | 21:27:15 | 01:11:11 |     96540    |   101875   
+       10  | 22:38:26 | 01:33:63 |    101876    |   108913   
+       11  | 24:12:14 | 01:22:14 |    108914    |   115077   
+       12  | 25:34:28 | 02:37:72 |    115078    |   126924   
+       13  | 28:12:25 | 02:03:53 |    126925    |   136202   
+       14  | 30:16:03 | 01:07:30 |    136203    |   141257   
+       15  | 31:23:33 | 01:29:30 |    141258    |   147962   
+       16  | 32:52:63 | 00:48:12 |    147963    |   151574   
+       17  | 33:41:00 | 01:12:11 |    151575    |   156985   
+       18  | 34:53:11 | 01:55:26 |    156986    |   165636   
+       19  | 36:48:37 | 01:42:60 |    165637    |   173346   
+       20  | 38:31:22 | 02:00:34 |    173347    |   182380   
+       21  | 40:31:56 | 05:34:12 |    182381    |   207442   
+       22  | 46:05:68 | 01:38:48 |    207443    |   214840   
+       23  | 47:44:41 | 01:56:36 |    214841    |   223576   
+       24  | 49:41:02 | 02:06:70 |    223577    |   233096   
+       25  | 51:47:72 | 02:17:31 |    233097    |   243402   
+       26  | 54:05:28 | 03:46:18 |    243403    |   260370   
+       27  | 57:51:46 | 00:37:39 |    260371    |   263184   
+       28  | 58:29:10 | 05:33:26 |    263185    |   288185   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -8.33 dB
+    Peak                     : 0.989014
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/01 なんもない feat. 星街すいせい, sakuma..flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -10.77 dB
+    Peak                     : 0.987640
+    CRC32 hash (test run)    : 8EC07DC0
+    CRC32 hash               : 8EC07DC0
+    CRC32 hash (skip zero)   : 386A19FA
+    AccurateRip v1 signature : F80B96C9
+    AccurateRip v2 signature : F90E6A5C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/02 なりたいじぶん.flac
+    Pre-gap length : 00:04:73
+
+    Track gain               : -11.35 dB
+    Peak                     : 0.989014
+    CRC32 hash (test run)    : 7F5EF71C
+    CRC32 hash               : 7F5EF71C
+    CRC32 hash (skip zero)   : AB767143
+    AccurateRip v1 signature : 77DC9F72
+    AccurateRip v2 signature : D6A59D62
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/03 キャンディ・ストライプ.flac
+    Pre-gap length : 00:01:24
+
+    Track gain               : -10.49 dB
+    Peak                     : 0.980927
+    CRC32 hash (test run)    : 16EF3E6A
+    CRC32 hash               : 16EF3E6A
+    CRC32 hash (skip zero)   : F04D1FC1
+    AccurateRip v1 signature : 3E1ECE54
+    AccurateRip v2 signature : C48997CE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/04 恋愛DOCHU膝栗毛.flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : -10.00 dB
+    Peak                     : 0.986389
+    CRC32 hash (test run)    : 25108ADD
+    CRC32 hash               : 25108ADD
+    CRC32 hash (skip zero)   : FCA8B102
+    AccurateRip v1 signature : 90FAFDC1
+    AccurateRip v2 signature : DEE2CBC4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/05 リスクファクター.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -10.41 dB
+    Peak                     : 0.980408
+    CRC32 hash (test run)    : EEE645EC
+    CRC32 hash               : EEE645EC
+    CRC32 hash (skip zero)   : 7CB82752
+    AccurateRip v1 signature : 406F9819
+    AccurateRip v2 signature : C289A965
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/06 聖南テネリタス女学院校歌.flac
+    Pre-gap length : 00:03:61
+
+    Track gain               : -5.99 dB
+    Peak                     : 0.977600
+    CRC32 hash (test run)    : E8F5AEE7
+    CRC32 hash               : E8F5AEE7
+    CRC32 hash (skip zero)   : 89F5D56B
+    AccurateRip v1 signature : 8A03B719
+    AccurateRip v2 signature : 75D88CF0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/07 Gold Ingot.flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : -1.46 dB
+    Peak                     : 0.977264
+    CRC32 hash (test run)    : E4FE7093
+    CRC32 hash               : E4FE7093
+    CRC32 hash (skip zero)   : BED68317
+    AccurateRip v1 signature : D7858280
+    AccurateRip v2 signature : 4838F52E
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/08 Robot Princess.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : 0.56 dB
+    Peak                     : 0.816650
+    CRC32 hash (test run)    : 87D40609
+    CRC32 hash               : 87D40609
+    CRC32 hash (skip zero)   : 2A7FD5B4
+    AccurateRip v1 signature : 94B7E871
+    AccurateRip v2 signature : 4A6E647A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/09 Super Glue Splash.flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : -4.44 dB
+    Peak                     : 0.977448
+    CRC32 hash (test run)    : E7395191
+    CRC32 hash               : E7395191
+    CRC32 hash (skip zero)   : 3EA56233
+    AccurateRip v1 signature : CDEC88C0
+    AccurateRip v2 signature : 34C30DA4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/10 Starry Declaration.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -2.93 dB
+    Peak                     : 0.770721
+    CRC32 hash (test run)    : A41AB4D1
+    CRC32 hash               : A41AB4D1
+    CRC32 hash (skip zero)   : 17E4319F
+    AccurateRip v1 signature : 825C6CA5
+    AccurateRip v2 signature : FA2A0002
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/11 BON Cafe Tactics.flac
+    Pre-gap length : 00:00:62
+
+    Track gain               : -0.53 dB
+    Peak                     : 0.977295
+    CRC32 hash (test run)    : 76163850
+    CRC32 hash               : 76163850
+    CRC32 hash (skip zero)   : 86B2619A
+    AccurateRip v1 signature : BA83187E
+    AccurateRip v2 signature : 1616E7DA
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/12 Komorebi Sweat.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -3.68 dB
+    Peak                     : 0.977264
+    CRC32 hash (test run)    : 8BC9D47C
+    CRC32 hash               : 8BC9D47C
+    CRC32 hash (skip zero)   : C1F39F28
+    AccurateRip v1 signature : FF872F91
+    AccurateRip v2 signature : 6F8DC9C0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/13 N-E-W-S.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -1.89 dB
+    Peak                     : 0.976532
+    CRC32 hash (test run)    : CB63360C
+    CRC32 hash               : CB63360C
+    CRC32 hash (skip zero)   : 95CAF40C
+    AccurateRip v1 signature : CDC14C95
+    AccurateRip v2 signature : A12524D4
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/14 Tapioca Wonderland.flac
+    Pre-gap length : 00:01:24
+
+    Track gain               : -1.73 dB
+    Peak                     : 0.975708
+    CRC32 hash (test run)    : 596D8327
+    CRC32 hash               : 596D8327
+    CRC32 hash (skip zero)   : E7801982
+    AccurateRip v1 signature : 65E6B546
+    AccurateRip v2 signature : 03CA69E0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/15 Pinky Flash.flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : -3.39 dB
+    Peak                     : 0.977753
+    CRC32 hash (test run)    : BA75D0E3
+    CRC32 hash               : BA75D0E3
+    CRC32 hash (skip zero)   : 408333B0
+    AccurateRip v1 signature : D35A68A5
+    AccurateRip v2 signature : 523CD80D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/16 Castle JK.flac
+    Pre-gap length : 00:01:24
+
+    Track gain               : -4.32 dB
+    Peak                     : 0.977356
+    CRC32 hash (test run)    : 0D3D640F
+    CRC32 hash               : 0D3D640F
+    CRC32 hash (skip zero)   : 62AD37F8
+    AccurateRip v1 signature : 4E054034
+    AccurateRip v2 signature : C3E36BF1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/17 Buzz Spark.flac
+    Pre-gap length : 00:00:61
+
+    Track gain               : -8.04 dB
+    Peak                     : 0.978119
+    CRC32 hash (test run)    : 9FE714DF
+    CRC32 hash               : 9FE714DF
+    CRC32 hash (skip zero)   : C3566E3A
+    AccurateRip v1 signature : 24E2961A
+    AccurateRip v2 signature : AE126727
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/18 Meteor Shower Coaster.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -9.57 dB
+    Peak                     : 0.981506
+    CRC32 hash (test run)    : 356942E8
+    CRC32 hash               : 356942E8
+    CRC32 hash (skip zero)   : 9AB767FF
+    AccurateRip v1 signature : 1286BEF4
+    AccurateRip v2 signature : 8DF59F97
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/19 Bitter Domino.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -1.36 dB
+    Peak                     : 0.975952
+    CRC32 hash (test run)    : 5250A43F
+    CRC32 hash               : 5250A43F
+    CRC32 hash (skip zero)   : 343BA41E
+    AccurateRip v1 signature : 0A1A97F5
+    AccurateRip v2 signature : 0B3BC0ED
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/20 Last Anniversary.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : 0.12 dB
+    Peak                     : 0.923553
+    CRC32 hash (test run)    : 8A13F575
+    CRC32 hash               : 8A13F575
+    CRC32 hash (skip zero)   : C18429B3
+    AccurateRip v1 signature : AC550F8E
+    AccurateRip v2 signature : A3E6E676
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 21
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/21 方位自身 (Demo Version).flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : -8.81 dB
+    Peak                     : 0.980225
+    CRC32 hash (test run)    : A2AA6D46
+    CRC32 hash               : A2AA6D46
+    CRC32 hash (skip zero)   : 585BE4D0
+    AccurateRip v1 signature : DC6321C9
+    AccurateRip v2 signature : AEBAB602
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 22
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/22 Twinkle Current.flac
+    Pre-gap length : 00:00:62
+
+    Track gain               : 2.09 dB
+    Peak                     : 0.605499
+    CRC32 hash (test run)    : 3CE5B295
+    CRC32 hash               : 3CE5B295
+    CRC32 hash (skip zero)   : B686A3E6
+    AccurateRip v1 signature : 8F9348B1
+    AccurateRip v2 signature : F9E789F9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 23
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/23 Sugar Distortion.flac
+    Pre-gap length : 00:00:61
+
+    Track gain               : -1.38 dB
+    Peak                     : 0.914337
+    CRC32 hash (test run)    : 5D19F0BA
+    CRC32 hash               : 5D19F0BA
+    CRC32 hash (skip zero)   : DA464531
+    AccurateRip v1 signature : 49085B1E
+    AccurateRip v2 signature : 90849EE7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 24
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/24 Your First Fan.flac
+    Pre-gap length : 00:00:61
+
+    Track gain               : -4.14 dB
+    Peak                     : 0.977386
+    CRC32 hash (test run)    : 123CDA20
+    CRC32 hash               : 123CDA20
+    CRC32 hash (skip zero)   : AFD7F03A
+    AccurateRip v1 signature : 9ADDD39C
+    AccurateRip v2 signature : 5ADFE7DA
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 25
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/25 Four Apologies.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -2.73 dB
+    Peak                     : 0.977386
+    CRC32 hash (test run)    : A68146C4
+    CRC32 hash               : A68146C4
+    CRC32 hash (skip zero)   : CFA4A388
+    AccurateRip v1 signature : D62B2D5A
+    AccurateRip v2 signature : D040E0FD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 26
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/26 RE： IDOL.flac
+    Pre-gap length : 00:01:24
+
+    Track gain               : -2.62 dB
+    Peak                     : 0.978577
+    CRC32 hash (test run)    : DD257CAE
+    CRC32 hash               : DD257CAE
+    CRC32 hash (skip zero)   : A67024CF
+    AccurateRip v1 signature : B6AEE585
+    AccurateRip v2 signature : 8D7737EE
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 27
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/27 Trapezium.flac
+    Pre-gap length : 00:01:62
+
+    Track gain               : 4.38 dB
+    Peak                     : 0.594421
+    CRC32 hash (test run)    : 0E5138AA
+    CRC32 hash               : 0E5138AA
+    CRC32 hash (skip zero)   : 7318279A
+    AccurateRip v1 signature : 7CAD7828
+    AccurateRip v2 signature : 64CD4E25
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 28
+    Filename : /Volumes/Bookshelves/[240510] トラペジウム オリジナル・サウンドトラック/28 方位自身.flac
+    Pre-gap length : 00:01:61
+
+    Track gain               : -10.27 dB
+    Peak                     : 0.985138
+    CRC32 hash (test run)    : 7A5848AF
+    CRC32 hash               : 7A5848AF
+    CRC32 hash (skip zero)   : CBC65BDE
+    AccurateRip v1 signature : C00FE26A
+    AccurateRip v2 signature : E303BAFB
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+V_H.zgl4qWwrsk9luRBQn04FvyE4YHrjo_HAfz6gWlsS0E.FtQlHu68KwC0wleCHEX.9ZpwtIqgxf35amvxnQEgTatzHhXyMlBtp8k4
+-----END XLD SIGNATURE-----
